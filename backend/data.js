@@ -55,6 +55,7 @@ const data = {
       numReviews: 14,
       description: 'high quality product',
     },
+    
     {
       // _id: '4',
       name: 'Adidas Fit Pant',
@@ -67,7 +68,7 @@ const data = {
       rating: 4.5,
       numReviews: 10,
       description: 'high quality product',
-      
+
     },
   ],
 };
